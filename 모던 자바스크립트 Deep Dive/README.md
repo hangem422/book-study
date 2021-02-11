@@ -159,7 +159,7 @@
     12. 정적 프로퍼티/메서드
     13. 프로퍼티 존재 확인
     14. 프로퍼티 열거
-20. strict mode
+20. **strict mode**
     1. strict mode란?
     2. strict mode의 적용
     3. 전역에 strict mode를 적용하는 것은 피하자
