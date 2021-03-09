@@ -218,7 +218,7 @@
     1. Number 생성자 함수
     2. Number 프로퍼티
     3. Number 메서드
-29. Math
+29. **Math**
     1. Math 프로퍼티
     2. Math 메서드
 30. Date
