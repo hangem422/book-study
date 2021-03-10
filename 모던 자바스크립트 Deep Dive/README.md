@@ -221,7 +221,7 @@
 29. **Math**
     1. Math 프로퍼티
     2. Math 메서드
-30. Date
+30. **Date**
     1. Date 생성자 함수
     2. Date 메서드
     3. Date를 활용한 시계 예제
